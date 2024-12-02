@@ -1,0 +1,54 @@
+table{
+    border: 3px solid black;
+    width: 75%;
+    /*border-spacing: 25px;*/
+    border-collapse: collapse;
+   /* border-radius: 20px;*/
+   
+}
+td,th{
+    border: 3px solid black;
+    /*border-style: dotted;*/
+    /*border: 3px dotted darkblue;*/
+    font-size: 1.2rem;
+    border-radius: 20px;
+    /*padding: 15px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;*/
+}
+
+td{
+    text-align: center;
+}
+
+/*thead{
+   background-color: red;
+}
+
+tfoot{
+    background-color: green;
+}
+
+tbody{
+    background-color: cadetblue;
+}*/
+
+/*tr:nth-child(even){
+    background-color: rgba(150, 212, 212, 0.4);
+}
+th:nth-child(even),td:nth-child(even){
+    background-color: rgba(150, 212, 212, 0.4);
+}
+
+th:hover,td:hover{
+    background-color: aliceblue;
+}*/
+
+caption{
+    background-color: rgba(115, 220, 190, 0.5);
+    font-size: 2rem;
+    border:  solid rgb(218, 126, 193);
+}
+
